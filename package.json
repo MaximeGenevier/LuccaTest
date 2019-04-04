@@ -1,0 +1,11 @@
+{
+  "name": "luccadevises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LuccaDevises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
